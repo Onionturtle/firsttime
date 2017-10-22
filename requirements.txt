@@ -1,0 +1,13 @@
+Input:
+
+The program would ask the user how many numbers he or she wants to calculate. When the uswer gives an input
+of a positive integer. it will save the number in a variable named num
+the program would then make an array.
+Then the program would promt the reader (num) times to save each integer in the spaces of the array.
+
+output:
+
+The program would first add all the inputs and get the mean
+Then it will run a loop to add all (x-x')^2. this will be saved in a var called step1
+Step 1 would be divided by num and square rooted
+Then the answer comes out as an out put
